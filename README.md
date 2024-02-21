@@ -22,6 +22,7 @@ Users should be able to:
 - Flexbox
 - Leaftlet
 - React-Leaflet
+- Axios
 - [Api](https://ipapi.co/api/) - Ip geolocation API
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
