@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://viniciusfmarques.github.io/ipaddresstracker/)
+- Solution URL: (https://github.com/ViniciusFMarques/ipaddresstracker/)
 
 ### Built with
 
@@ -22,6 +22,7 @@ Users should be able to:
 - Flexbox
 - Leaftlet
 - React-Leaflet
+- [Api](https://ipapi.co/api/) - Ip geolocation API
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
